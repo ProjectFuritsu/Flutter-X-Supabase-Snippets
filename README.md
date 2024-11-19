@@ -1,4 +1,4 @@
-# Flutter-Base-Snippets
+# Flutter-X-Supabase-Snippets
 Building in Public: A Journey to Inspire New Programmers 🚀🌟\
 
 
