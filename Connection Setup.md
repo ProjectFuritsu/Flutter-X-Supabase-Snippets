@@ -9,7 +9,7 @@
 4. Gumawa ng Flutter Application
 5. I-modify ang "main.dart" file
 
-   ```dart title="lib/app.dart"
+   ```dart
    ....
    import 'package:supabase_flutter/supabase_flutter.dart';
    
