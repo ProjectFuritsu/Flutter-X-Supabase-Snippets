@@ -14,7 +14,7 @@ On the other hand, when your query retrives a single row to the supabase databas
 See the difference? **List of maps** is a array of json object while a **single map** is a json object.
 
 ---
-## What is the Query Structure?
+## What is the appropriate Query Structure?
 Supabase query depends on what do you want to retrive, in querying you retrive a **single data**, **aggregated Data**, **an array of data**, and more. earlier, i explain the 2 types of data structure when retriving a data form the supabase. In querying, you have some choices on how are you going to retrive the data, but in this guide, ill teach you 2 approach, a query that retrives a array of Json object and a single Json object.
 
 In this guide, I use 2 approach, the one that i store it to a variable and the one that i put it on a function.
